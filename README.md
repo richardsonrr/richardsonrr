@@ -1,6 +1,7 @@
 ### Bem-vindos!! 👋
 
-https://user-images.githubusercontent.com/71666036/170548131-cf6aa58f-0f5b-4d92-8db6-c101cc469223.mp4
+![Richardson Rodrigues](https://user-images.githubusercontent.com/71666036/170548264-563b40fb-0565-42fc-94a5-092fb62edd6b.jpg)
+
 
 ##
 
