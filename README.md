@@ -1,7 +1,8 @@
 ### Bem-vindos!! 👋
 
-![Richardson_Rodrigues](https://user-images.githubusercontent.com/71666036/170551906-62acc666-a8b0-4ca6-ad9f-9745388dccbd.gif)
-
+<div align="center">
+ ![Richardson_Rodrigues](https://user-images.githubusercontent.com/71666036/170551906-62acc666-a8b0-4ca6-ad9f-9745388dccbd.gif)
+</div>
 
 
 
