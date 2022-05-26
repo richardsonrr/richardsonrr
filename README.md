@@ -1,5 +1,7 @@
 ### Bem-vindos!! 👋
 
+![Richardson Rodrigues](https://user-images.githubusercontent.com/71666036/170547741-d82d0485-7ade-4e3b-a93d-755b19e4ed0b.jpg)
+
 ##
 
 <div align="center">
