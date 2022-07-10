@@ -32,7 +32,7 @@
 
 <div>
 <h1>Projetos Recentes</h1>
-<div> <h3> <a href = "https://github.com/richardsonrr/bootcamp-dio-santander-mobile/edit/master/ProjetoPlacar/README.md">Simulador de partidas</a></h3> 
+<div> <h3> <a href = "https://github.com/richardsonrr/bootcamp-dio-santander-mobile/blob/master/ProjetoPlacar/README.md">Simulador de partidas</a></h3> 
 <b>Sobre:</b> <i>Projeto criado durante o BootCamp Santander feito pela DIO, o app tem o objetivo simular partidas de jogos consumindo uma API com Retrofit, e usando o Glide para gerenciamento de Imgs.</i> <br>
 <b>Tecnoligias:</b> Kotlin, Material Design, Retrofit, Glide. 
 
