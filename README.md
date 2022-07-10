@@ -29,3 +29,16 @@
   <a href = "mailto:richardsonrodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richardson-rodrigues-294a05176/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
+
+<div>
+<h1>Projetos Recentes</h1>
+<div> <h3> <a href = "https://github.com/richardsonrr/bootcamp-dio-santander-mobile/edit/master/ProjetoPlacar/README.md">Simulador de partidas</a></h3> 
+<b>Sobre:</b> <i>Projeto criado durante o BootCamp Santander feito pela DIO, o app tem o objetivo simular partidas de jogos consumindo uma API com Retrofit, e usando o Glide para gerenciamento de Imgs.</i> <br>
+<b>Tecnoligias:</b> Kotlin, Material Design, Retrofit, Glide. 
+
+</div>
+
+
+</div>
+
+
